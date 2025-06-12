@@ -1,5 +1,5 @@
 # demoHtml
-A Demo HTML Site from the Computing Fundamentals Course
+Hello World Demo for Roppers Programming
 
 # Author
-Dennis Devey
+-M
